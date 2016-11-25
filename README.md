@@ -13,14 +13,14 @@ Anaconda is the easiest way to get the Python packages you need for scientific c
 2. We recommend that you select and download Python 3.5 version, but if you already have 2.7 version, it should not be a problem.
 3. Once Anaconda is installed, open the Python command prompt, which you will find in your Start menu.
 3. Anaconda comes with lots of useful packages. However, there are a few extra ones you will need to do Bayesian analysis: PyMC3 and its dependent libraries. These can be installed easily using the `conda` command. In the command prompt, type the following:
-```python
+```
 conda install -c conda-forge pymc3
 ```
 When asked if you want to install additional packages, type `y` and hit \<Enter\>.
 
 Then:
 
-```Python
+```
 conda install mingw libpython
 ```
 Your Python installation should be all set! If you encounter any problems, Google is your friend. 
