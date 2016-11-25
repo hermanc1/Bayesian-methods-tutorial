@@ -1,7 +1,7 @@
 # Bayesian-methods-tutorial
 Data Analysis for Power and Energy Engineering made easy using Probabilistic Programming
 
-**New to Python?**
+# New to Python?
 
 You don't need to install Python to view this tutorial. The Jupyter notebook runs like a website on any browser.
 
@@ -25,7 +25,7 @@ conda install mingw libpython
 ```
 Your Python installation should be all set! If you encounter any problems, Google is your friend. 
 
-**Downloading and running the tutorial files**
+## Downloading and running the tutorial files
 
 The technically correct way to do it is to install `Git` on your machine, for which you will find many tutorials. The cheap and nasty way of doing it would be:
 
