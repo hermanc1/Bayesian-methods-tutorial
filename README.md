@@ -16,8 +16,7 @@ Anaconda is the easiest way to get the Python packages you need for scientific c
 ```
 conda install -c conda-forge pymc3
 ```
-When asked if you want to install additional packages, type `y` and hit \<Enter\>.
-
+You also need to install additional packages. So after typing the command above and entering `y` when prompted, you also need to type the following:
 Then:
 
 ```
